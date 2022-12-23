@@ -1,4 +1,4 @@
---Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden
+--Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden
 
 SELECT title, description FROM film 
 order by title ASC
